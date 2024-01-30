@@ -1,0 +1,5 @@
+{
+  "Safe Mode": "off",
+  "Memory": "32MB",
+  "Error Log": "logs/errors.log"
+}
